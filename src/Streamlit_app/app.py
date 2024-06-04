@@ -3,7 +3,7 @@ from joblib import load
 import numpy as np
 
 # Carga el modelo
-model = load('/workspaces/regresion_lineal/src/modelo_regresion_lineal.pkl')
+model = load('/workspaces/regresion_lineal/src/Streamlit_app/modelo_regresion_lineal.pkl')
 
 def main():
     st.title('Predictor de Gastos medicos')
