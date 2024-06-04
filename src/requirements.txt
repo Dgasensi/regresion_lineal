@@ -16,3 +16,4 @@ xgboost
 joblib>=0.0.0
 streamlit>=0.0.0
 statsmodels>=0.0.0
+streamlit>=0.0.0
