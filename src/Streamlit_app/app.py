@@ -23,6 +23,5 @@ def main():
         prediction = model.predict(X_new)
         st.write(f'Predicción: ${prediction[0]:.2f}')
         
-if __name__ == '__main__':
-    main()
+
 
